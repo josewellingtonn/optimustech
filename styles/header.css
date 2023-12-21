@@ -1,0 +1,42 @@
+.cabecalho {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1.4em 4%;
+}
+
+.cabecalho__info {
+    display: flex;
+    align-items: center;
+    gap: 8em;
+}
+
+.cabecalho__info__lista {
+    display: flex;
+    gap: 2em;
+}
+
+.cabecalho__info__lista__item > a {
+    text-decoration: none;
+    color: var(--cor-terciaria);
+    font-weight: 500;
+}
+
+.cabecalho__botoes {
+    display: flex;
+    gap: 1.87em;
+    align-items: center;
+}
+
+.cabecalho__botoes__botao {
+    font-weight: 500;
+    text-decoration: none;
+    color: var(--cor-terciaria);
+}
+
+.cabecalho__botoes__botao--preenchido {
+    background-color: var(--cor-destaque);
+    color: var(--cor-principal);
+    padding: 0.62em 1.12em;
+    border-radius: 0.5em;
+}
