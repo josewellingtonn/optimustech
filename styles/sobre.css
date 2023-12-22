@@ -1,0 +1,22 @@
+.conteudo__sobre {
+    text-align: center;
+}
+
+.conteudo__sobre__info {
+    font-weight: 600;
+    color: var(--cor-destaque);
+}
+
+.conteudo__sobre__titulo {
+    font-size: 3em;
+    font-weight: 600;
+    margin: 1em 0;
+    color: var(--cor-secundaria);
+}
+
+.conteudo__sobre__texto {
+    font-size: 1.25em;
+    color: var(--cor-terciaria);
+    max-width: 791px;
+    margin: 0 auto;
+}
