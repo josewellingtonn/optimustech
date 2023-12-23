@@ -1,0 +1,27 @@
+.conteudo__metricas {
+    padding: 8em 0;
+    display: flex;
+    gap: 2em;
+    justify-content: center;
+}
+
+.conteudo__metricas__resultado {
+    max-width: 280px;
+}
+
+.conteudo__metricas__resultado__numero {
+    font-weight: 600;
+    font-size: 3.75em;
+    color: var(--cor-destaque);
+}
+
+.conteudo__metricas__resultado__sobre {
+    font-size: 1.12em;
+    font-weight: 500;
+    margin: 0.75em 0 0.5em 0;
+    color: var(--cor-secundaria);
+}
+
+.conteudo__metricas__resultado__descricao {
+    color: var(--cor-terciaria);
+}
