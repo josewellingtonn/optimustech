@@ -1,12 +1,14 @@
 @import url('header.css');
 @import url('sobre.css');
 @import url('metricas.css');
+@import url('vagas.css');
 
 :root {
     --cor-principal: #FFFFFF;
     --cor-secundaria: #101828;
     --cor-terciaria: #667085;
     --cor-destaque: #8E2424;
+    --cor-destaque-opacidade: #8e24240d;
 
     --fonte-principal: 'Inter', sans-serif;
 }
