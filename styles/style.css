@@ -2,6 +2,7 @@
 @import url('sobre.css');
 @import url('metricas.css');
 @import url('vagas.css');
+@import url('depoimentos.css');
 
 :root {
     --cor-principal: #FFFFFF;
@@ -23,4 +24,6 @@ body {
 
 .conteudo {
     padding: 6em 2%;
+    max-width: 1280px;
+    margin: 0 auto;
 }

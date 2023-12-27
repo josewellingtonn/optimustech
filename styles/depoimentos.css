@@ -1,0 +1,32 @@
+.conteudo__depoimentos {
+    background-color: var(--cor-destaque-opacidade);
+    padding: 4em;
+    text-align: center;
+}
+
+.conteudo__depoimentos__titulo {
+    font-size: 0.87em;
+    color: var(--cor-destaque);
+    font-weight: 600;
+    margin-bottom: 1em;
+}
+
+.conteudo__depoimentos__texto {
+    color: var(--cor-secundaria);
+    font-weight: 500;
+    font-size: 2.25em;
+    margin-bottom: 2em;
+}
+
+.conteudo__depoimentos__nome {
+    display: block;
+    margin: 1em 0 0.25em 0;
+    font-weight: 500;
+    color: var(--cor-secundaria);
+}
+
+.conteudo__depoimentos__cargo {
+    display: block;
+    color: var(--cor-terciaria);
+    font-size: 0.87em;
+}
