@@ -3,6 +3,7 @@
 @import url('metricas.css');
 @import url('vagas.css');
 @import url('depoimentos.css');
+@import url('rodape.css');
 
 :root {
     --cor-principal: #FFFFFF;
@@ -11,6 +12,7 @@
     --cor-destaque: #8E2424;
     --cor-bordas: #EAECF0;
     --cor-destaque-opacidade: #8e24240d;
+    --cor-terciaria-light: #F9FAFB;
 
     --fonte-principal: 'Inter', sans-serif;
 }
