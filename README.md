@@ -38,7 +38,7 @@ O site contém sete seções:
 
 ## 📁 Acesso ao projeto
 
-[Veja o projeto final em funcionamento.](https://josewellingtonn.github.io/webooks/)
+[Veja o projeto final em funcionamento.](https://optimustech-one.vercel.app/)
 
 Neste repositório você tem acesso a todos os arquivos necessários para execução.
 
