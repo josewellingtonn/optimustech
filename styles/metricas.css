@@ -25,3 +25,16 @@
 .conteudo__metricas__resultado__descricao {
     color: var(--cor-terciaria);
 }
+
+@media screen and (max-width: 768px) {
+
+    .conteudo__metricas {
+        flex-wrap: wrap;
+    }
+
+    .conteudo__metricas__resultado {
+        text-align: center;
+        margin-bottom: 1.5em;
+    }
+
+}

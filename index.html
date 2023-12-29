@@ -13,9 +13,31 @@
     <body>
         <header class="cabecalho">
             <div class="cabecalho__info">
-                <img src="assets/logo.svg" alt="Logo do OptimusTech">
+                <img class="cabecalho__info__logo" src="assets/logo.svg" alt="Logo do OptimusTech">
 
-                <nav>
+                <nav class="menu-mobile">
+                    <input class="menu-mobile__input" type="checkbox" id="mobile">
+                    <label for="mobile">
+                        <img class="menu-mobile__icone" src="assets/menu-icon.svg" alt="Ícone menu">
+                    </label>
+
+                    <ul class="cabecalho__info__lista-mobile">
+                        <li class="cabecalho__info__lista__item">
+                            <a href="#">Home</a>
+                        </li>
+                        <li class="cabecalho__info__lista__item">
+                            <a href="#">Produtos</a>
+                        </li>
+                        <li class="cabecalho__info__lista__item">
+                            <a href="#">Recursos</a>
+                        </li>
+                        <li class="cabecalho__info__lista__item">
+                            <a href="#">Sobre nós</a>
+                        </li>
+                    </ul>
+                </nav>
+
+                <nav class="menu-desktop">
                     <ul class="cabecalho__info__lista">
                         <li class="cabecalho__info__lista__item">
                             <a href="#">Home</a>
@@ -36,6 +58,8 @@
             <div class="cabecalho__botoes">
                 <a class="cabecalho__botoes__botao" href="#">Entrar</a>
                 <a class="cabecalho__botoes__botao cabecalho__botoes__botao--preenchido" href="#">Cadastrar</a>
+                <img class="cabecalho__botoes__icone" src="assets/login.png" alt="Ícone de Login">
+                <img class="cabecalho__botoes__icone" src="assets/create-icon.png" alt="Ícone de Cadastro">
             </div>
         </header>
 

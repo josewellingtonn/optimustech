@@ -30,3 +30,15 @@
     color: var(--cor-terciaria);
     font-size: 0.87em;
 }
+
+@media screen and (max-width: 768px) {
+
+    .conteudo__depoimentos {
+        padding: 2em;
+    }
+
+    .conteudo__depoimentos__texto {
+        font-size: 1.80em;
+    }
+
+}
