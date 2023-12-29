@@ -4,7 +4,7 @@
 
 # Projeto OptimusTech
 
-O projeto OptimusTech surgiu a partir do desafio #7DaysOfCode HTML e CSS. O projeto consiste numa landing page de uma empresa de tecnologia. Projeto 100% responsivo!
+O projeto OptimusTech surgiu a partir do desafio #7DaysOfCode HTML e CSS. O desafio propõem você desenvolver um projeto Front-End em HTML e CSS em 7 dias. O projeto consiste numa landing page de uma empresa de tecnologia, 100% responsivo!
 
 ## 🔨 Funcionalidades do projeto
 
